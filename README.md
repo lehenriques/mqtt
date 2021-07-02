@@ -35,7 +35,6 @@ subscribe.php
 Deixe o arquivo `subscribe.php` recebendo as mensagens: 
 ```console
 $ php phpclient/subscribe.php 
-Msg Recieved: Fri, 13 Jan 2017 01:58:23 +0000
 Leandro: Mensagem inicial.
 ```
 
